@@ -1,4 +1,4 @@
-# SQL Developer Internship - Task 8: Stored Procedures and Functions
+- Task 8: Stored Procedures and Functions
 
 ## Objective
 To modularize SQL logic using stored procedures and functions in MySQL.
